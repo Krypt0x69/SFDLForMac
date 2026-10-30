@@ -19,6 +19,8 @@ Apple Silicon und Intel · Deutsch · kostenlos (GPL-3.0)
 
 - **Kein Terminal, kein Tippen** – `.sfdl`-Dateien öffnen sich direkt in der App, der Download startet sofort
   (oder auf Wunsch erst, wenn du das Häkchen beim Paket setzt).
+- **Oder manuell steuern** – Pakete anhaken und mit **Start, Pause und Stopp** oben im Fenster alle ausgewählten
+  auf einmal steuern.
 - **Ordner überwachen** – neue SFDLs im Downloads-Ordner (oder einem eigenen Ordner) landen automatisch in der Liste.
 - **Passwortliste** im Schlüsselbund. Die Passwörter werden der Reihe nach probiert, gefragt wird nur, wenn keines passt –
   das richtige merkt sich die App.
