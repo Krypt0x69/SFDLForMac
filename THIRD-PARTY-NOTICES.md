@@ -1,7 +1,7 @@
 # Fremdkomponenten
 
-SFDL Loader liefert zwei Hilfsprogramme mit, die aus fremdem Quellcode gebaut werden. Sie liegen als eigenständige
-Programme in `SFDL Loader.app/Contents/Helpers/` und werden nur aufgerufen, nicht in die App gelinkt.
+SFDLForMac liefert zwei Hilfsprogramme mit, die aus fremdem Quellcode gebaut werden. Sie liegen als eigenständige
+Programme in `SFDLForMac.app/Contents/Helpers/` und werden nur aufgerufen, nicht in die App gelinkt.
 
 | Komponente | Verwendet für | Lizenz | Quellcode (genau dieser Stand) |
 |---|---|---|---|

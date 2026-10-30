@@ -1,4 +1,4 @@
-# SFDL Loader für macOS
+# SFDLForMac
 
 Native Mac-App zum Laden von `.sfdl`-Dateien. Im Browser auf eine SFDL klicken – der Download startet automatisch,
 wird geprüft, entpackt und landet im gewünschten Ordner.
@@ -20,7 +20,7 @@ wird geprüft, entpackt und landet im gewünschten Ordner.
 ## Installation
 
 1. Unter [Releases](https://github.com/Krypt0x69/SFDLForMac/releases/latest) die Datei `SFDLForMac-<Version>.dmg` laden.
-2. DMG öffnen und **SFDL Loader** auf **Programme** ziehen.
+2. DMG öffnen und **SFDLForMac** auf **Programme** ziehen.
 3. Die App ist nicht von Apple notarisiert. Beim ersten Start daher einmal
    **Systemeinstellungen › Datenschutz & Sicherheit › „Dennoch öffnen“** wählen.
 
@@ -34,7 +34,7 @@ shasum -a 256 -c SFDLForMac-<Version>.dmg.sha256
 
 ## Updates
 
-SFDL Loader sucht selbst nach neuen Versionen (abschaltbar unter Einstellungen › Allgemein) und installiert sie auf
+SFDLForMac sucht selbst nach neuen Versionen (abschaltbar unter Einstellungen › Allgemein) und installiert sie auf
 Wunsch. Jedes Update ist signiert; die App installiert nur Pakete, deren Signatur, Prüfsumme und Version stimmen.
 
 ## Lizenz
